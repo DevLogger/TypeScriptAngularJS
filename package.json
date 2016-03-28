@@ -1,0 +1,15 @@
+{
+  "name": "tshelloworld",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app/Main.js",
+  "author": "Humberto Machado",
+  "license": "MIT",
+  "dependencies": {
+    "angular": "^1.5.3",
+    "express": "^4.13.4",
+    "requirejs": "^2.2.0",
+    "systemjs": "^0.19.24",
+    "typescript": "^1.8.9"
+  }
+}

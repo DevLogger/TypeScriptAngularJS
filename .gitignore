@@ -1,0 +1,7 @@
+# Created by .ignore support plugin (hsz.mobi)
+/node_modules
+node_modules
+/bower_components
+/.idea
+/built
+/typings
