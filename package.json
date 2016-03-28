@@ -11,5 +11,8 @@
     "requirejs": "^2.2.0",
     "systemjs": "^0.19.24",
     "typescript": "^1.8.9"
+  },
+  "devDependencies": {
+    "typings": "^0.7.9"
   }
 }

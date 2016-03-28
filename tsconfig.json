@@ -11,7 +11,8 @@
     "outDir": "built"
   },
   "exclude": [
-    "node_modules",
-    "bower_components"
+    "typings/browser.d.ts",
+    "typings/browser",
+    "node_modules"
   ]
 }
